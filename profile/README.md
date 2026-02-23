@@ -150,7 +150,9 @@
     <td align="center" width="150">
       <a href="https://github.com/theSnackOverflow"><img src="https://github.com/theSnackOverflow.png" width="100" alt="2ssac"/></a><br/>
       <b>2ssac</b><br/>
+         <sub>강지훈</sub><br/>
       <a href="https://github.com/theSnackOverflow"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+         <a href="https://issac.app"><img src="https://img.shields.io/badge/-Portfolio-ff7676?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/Head-ddy"><img src="https://github.com/Head-ddy.png" width="100" alt="라희수"/></a><br/>
@@ -203,3 +205,4 @@
 <p align="center">
   <sub>UMC 8th &nbsp;·&nbsp; Omechu &nbsp;·&nbsp; 2025</sub>
 </p>
+

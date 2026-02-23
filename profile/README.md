@@ -172,6 +172,25 @@
   </tr>
 </table>
 
+### Server Original (UMC 8th)
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <b>위니 김서진</b>
+    </td>
+    <td align="center" width="150">
+      <b>솔솔 노찬솔</b>
+    </td>
+    <td align="center" width="150">
+      <b>코크 문조원</b>
+    </td>
+    <td align="center" width="150">
+      <b>랄프 정휘준</b>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 ---

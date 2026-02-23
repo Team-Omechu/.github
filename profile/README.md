@@ -170,20 +170,28 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://github.com/3tjwls7"><img src="https://github.com/3tjwls7.png" width="100" alt="김서진"/></a><br/>
       <b>위니</b><br/>
-      <sub>김서진</sub>
+      <sub>김서진</sub><br/>
+      <a href="https://github.com/3tjwls7"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     </td>
     <td align="center" width="150">
+      <a href="https://github.com/Ncs89"><img src="https://github.com/Ncs89.png" width="100" alt="노찬솔"/></a><br/>
       <b>솔솔</b><br/>
-      <sub>노찬솔</sub>
+      <sub>노찬솔</sub><br/>
+      <a href="https://github.com/Ncs89"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     </td>
     <td align="center" width="150">
+      <a href="https://github.com/CokeTown"><img src="https://github.com/CokeTown.png" width="100" alt="문조원"/></a><br/>
       <b>코크</b><br/>
-      <sub>문조원</sub>
+      <sub>문조원</sub><br/>
+      <a href="https://github.com/CokeTown"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     </td>
     <td align="center" width="150">
+      <a href="https://github.com/ralph-Jung"><img src="https://github.com/ralph-Jung.png" width="100" alt="정휘준"/></a><br/>
       <b>랄프</b><br/>
-      <sub>정휘준</sub>
+      <sub>정휘준</sub><br/>
+      <a href="https://github.com/ralph-Jung"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     </td>
   </tr>
 </table>

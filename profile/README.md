@@ -1,6 +1,6 @@
 <!-- ============================================================
      Omechu - GitHub Organization Profile
-     Brand Color: #FF6B35 | Dark BG: #1A1A1A
+     Brand Color: #ff7676 (primary) | #f9e4ff (background)
      ============================================================ -->
 
 <!-- ======================== HERO SECTION ======================== -->
@@ -28,8 +28,8 @@
 <!-- ====================== NAVIGATION ====================== -->
 
 <p align="center">
-  <a href="https://omechu.log8.kr/"><img src="https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;
-  <a href="mailto:omechu.team@gmail.com"><img src="https://img.shields.io/badge/Contact-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+  <a href="https://omechu.log8.kr/"><img src="https://img.shields.io/badge/Website-ff7676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="mailto:omechu.team@gmail.com"><img src="https://img.shields.io/badge/Contact-ff7676?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
 
 <p align="center">
@@ -83,15 +83,15 @@
       <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge" alt="Frontend"/>
     </th>
     <td align="left">
-      <img src="https://img.shields.io/badge/Next.js_16-FF6B35?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
-      <img src="https://img.shields.io/badge/React_19-FF6B35?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
-      <img src="https://img.shields.io/badge/TypeScript-FF6B35?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-FF6B35?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/>
-      <img src="https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
-      <img src="https://img.shields.io/badge/TanStack_Query-FF6B35?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-      <img src="https://img.shields.io/badge/Axios-FF6B35?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-      <img src="https://img.shields.io/badge/pnpm-FF6B35?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
-      <img src="https://img.shields.io/badge/Vercel-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/Next.js_16-ff7676?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
+      <img src="https://img.shields.io/badge/React_19-ff7676?style=for-the-badge&logo=react&logoColor=white" alt="React 19"/>
+      <img src="https://img.shields.io/badge/TypeScript-ff7676?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-ff7676?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"/>
+      <img src="https://img.shields.io/badge/Zustand-ff7676?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
+      <img src="https://img.shields.io/badge/TanStack_Query-ff7676?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+      <img src="https://img.shields.io/badge/Axios-ff7676?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+      <img src="https://img.shields.io/badge/pnpm-ff7676?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
+      <img src="https://img.shields.io/badge/Vercel-ff7676?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
     </td>
   </tr>
 
@@ -100,14 +100,14 @@
       <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge" alt="Backend"/>
     </th>
     <td align="left">
-      <img src="https://img.shields.io/badge/Node.js-FF6B35?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js_5-FF6B35?style=for-the-badge&logo=express&logoColor=white" alt="Express.js 5"/>
-      <img src="https://img.shields.io/badge/Prisma-FF6B35?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-      <img src="https://img.shields.io/badge/MySQL_8-FF6B35?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8"/>
-      <img src="https://img.shields.io/badge/Redis-FF6B35?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-      <img src="https://img.shields.io/badge/JWT-FF6B35?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-      <img src="https://img.shields.io/badge/OpenAI-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/Swagger-FF6B35?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
+      <img src="https://img.shields.io/badge/Node.js-ff7676?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js_5-ff7676?style=for-the-badge&logo=express&logoColor=white" alt="Express.js 5"/>
+      <img src="https://img.shields.io/badge/Prisma-ff7676?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+      <img src="https://img.shields.io/badge/MySQL_8-ff7676?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8"/>
+      <img src="https://img.shields.io/badge/Redis-ff7676?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/JWT-ff7676?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+      <img src="https://img.shields.io/badge/OpenAI-ff7676?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Swagger-ff7676?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
     </td>
   </tr>
 
@@ -116,11 +116,11 @@
       <img src="https://img.shields.io/badge/Infra_&_DevOps-000000?style=for-the-badge" alt="Infra & DevOps"/>
     </th>
     <td align="left">
-      <img src="https://img.shields.io/badge/Docker-FF6B35?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Docker_Compose-FF6B35?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-      <img src="https://img.shields.io/badge/AWS_S3-FF6B35?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
-      <img src="https://img.shields.io/badge/Sentry-FF6B35?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+      <img src="https://img.shields.io/badge/Docker-ff7676?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Docker_Compose-ff7676?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-ff7676?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/AWS_S3-ff7676?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+      <img src="https://img.shields.io/badge/Sentry-ff7676?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
     </td>
   </tr>
 </table>
@@ -142,6 +142,12 @@
 <table>
   <tr>
     <td align="center" width="150">
+      <a href="https://github.com/IISweetHeartII"><img src="https://github.com/IISweetHeartII.png" width="100" alt="김덕환"/></a><br/>
+      <b>김덕환</b><br/>
+      <a href="https://github.com/IISweetHeartII"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://log8.kr/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-ff7676?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    </td>
+    <td align="center" width="150">
       <a href="https://github.com/theSnackOverflow"><img src="https://github.com/theSnackOverflow.png" width="100" alt="2ssac"/></a><br/>
       <b>2ssac</b><br/>
       <a href="https://github.com/theSnackOverflow"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -159,34 +165,25 @@
   </tr>
 </table>
 
-### Backend
+### Backend (UMC 8th)
 
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/IISweetHeartII"><img src="https://github.com/IISweetHeartII.png" width="100" alt="김덕환"/></a><br/>
-      <b>김덕환</b><br/>
-      <a href="https://github.com/IISweetHeartII"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-      <a href="https://log8.kr/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-    </td>
-  </tr>
-</table>
-
-### Server Original (UMC 8th)
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <b>위니 김서진</b>
+      <b>위니</b><br/>
+      <sub>김서진</sub>
     </td>
     <td align="center" width="150">
-      <b>솔솔 노찬솔</b>
+      <b>솔솔</b><br/>
+      <sub>노찬솔</sub>
     </td>
     <td align="center" width="150">
-      <b>코크 문조원</b>
+      <b>코크</b><br/>
+      <sub>문조원</sub>
     </td>
     <td align="center" width="150">
-      <b>랄프 정휘준</b>
+      <b>랄프</b><br/>
+      <sub>정휘준</sub>
     </td>
   </tr>
 </table>
